@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mss
+pytesseract
+pywin32
+z3-solver
